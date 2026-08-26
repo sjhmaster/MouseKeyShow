@@ -11,6 +11,12 @@
 
 > **Note**: This repository provides official pre-built binary distributions. Source code is proprietary.
 
+### 🖼️ Screenshots & Preview
+
+| Real-time Visualizer Overlay | Configuration Panel |
+| :---: | :---: |
+| ![MouseKeyShow Preview](MouseKeyShow.jpg) | ![MouseKeyShow Settings](MouseKeyShowCfg.jpg) |
+
 ### ✨ Key Features
 * **Native C++ Engine**: Ultra-low latency and minimal resource consumption.
 * **Keystroke & Mouse Visualizer**: Smooth, real-time overlay showing keyboard combinations and mouse clicks.
@@ -41,6 +47,12 @@
 **MouseKeyShow** 是一款基于 C++ 构建的高性能 Windows 屏幕键鼠实时可视化工具，专为录屏教学、游戏直播及演示场景设计。
 
 > **说明**：本仓库仅作为官方二进制打包版本的发布渠道，本项目非开源软件。
+
+### 🖼️ 软件界面与效果预览
+
+| 实时屏幕按键显示效果 | 配置中心与所见即所得定位 |
+| :---: | :---: |
+| ![MouseKeyShow 效果演示](MouseKeyShow.jpg) | ![MouseKeyShow 配置中心](MouseKeyShowCfg.jpg) |
 
 ### ✨ 核心功能
 * **C++ 原生性能**：极速响应，极低 CPU 及内存占用。
