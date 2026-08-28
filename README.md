@@ -26,7 +26,7 @@
 
 ### 📥 Download & Installation
 1. Go to the [**Releases**](../../releases) page.
-2. Download the latest `MouseKeyShow.rar`.
+2. Download the latest `MouseKeyShow.zip`.
 3. Extract the `.rar` archive to your preferred local folder.
 4. Run `MouseKeyShow.exe` (Run as Administrator is recommended for full-screen game overlays).
 
@@ -63,7 +63,7 @@
 
 ### 📥 下载与运行
 1. 点击进入 [**Releases 发布页**](../../releases)。
-2. 下载最新版本的 `MouseKeyShow.rar`。
+2. 下载最新版本的 `MouseKeyShow.zip`。
 3. 将压缩包解压至任意本地目录。
 4. 双击运行 `MouseKeyShow.exe` 即可使用（在全屏应用/游戏中建议右键以管理员身份运行）。
 
