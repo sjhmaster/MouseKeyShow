@@ -12,7 +12,7 @@
 > **Note**: This repository provides official pre-built binary distributions. Source code is proprietary.
 
 ### 🖼️ Screenshots & Preview
-
+![Demo](mousekeyshow.gif)
 | Real-time Visualizer Overlay | Configuration Panel |
 | :---: | :---: |
 | ![MouseKeyShow Preview](MouseKeyShow.jpg) | ![MouseKeyShow Settings](MouseKeyShowCfg.jpg) |
