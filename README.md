@@ -13,6 +13,7 @@
 
 ### 🖼️ Screenshots & Preview
 ![Demo](mousekeyshow.gif)
+![Demo](mousekeyshowV1.5.1.gif)
 | Real-time Visualizer Overlay | Configuration Panel |
 | :---: | :---: |
 | ![MouseKeyShow Preview](MouseKeyShow.jpg) | ![MouseKeyShow Settings](MouseKeyShowCfg.jpg) |
