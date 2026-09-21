@@ -15,6 +15,10 @@
 ![Demo](mousekeyshow.gif)
 ![Demo](v1.5.3.gif)
 ![Demo](Dodge.gif)
+![Demo](fullkeyboard.gif)
+![MouseKeyShow Preview](FullKeyboard_01.jpg)
+![MouseKeyShow Preview](FullKeyboard_02.jpg)
+![MouseKeyShow Preview](FullKeyboard_03.jpg)
 | Real-time Visualizer Overlay | Configuration Panel |
 | :---: | :---: |
 | ![MouseKeyShow Preview](MouseKeyShow.jpg) | ![MouseKeyShow Settings](MouseKeyShowCfg.jpg) |
@@ -54,7 +58,7 @@
 
 | 实时屏幕按键显示效果 | 配置中心与所见即所得定位 |
 | :---: | :---: |
-| ![MouseKeyShow 效果演示](MouseKeyShow.jpg) | ![MouseKeyShow 配置中心](MouseKeyShowCfg.jpg) |
+| ![MouseKeyShow 效果演示](MouseKeyShow.jpg) | ![MouseKeyShow 配置中心](FullKeyboard.jpg) |
 
 ### ✨ 核心功能
 * **C++ 原生性能**：极速响应，极低 CPU 及内存占用。
