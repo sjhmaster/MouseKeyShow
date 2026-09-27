@@ -57,6 +57,7 @@
 
 ### 🖼️ 软件界面与效果预览
 
+[Click here to watch the MouseKeyShow demo video](https://www.youtube.com/watch?v=J3Itx-3jFuM)
 | 实时屏幕按键显示效果 | 配置中心与所见即所得定位 |
 | :---: | :---: |
 | ![MouseKeyShow 效果演示](MouseKeyShow.jpg) | ![MouseKeyShow 配置中心](FullKeyboard.jpg) |
