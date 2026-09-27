@@ -19,7 +19,7 @@
 ![MouseKeyShow Preview](FullKeyboard_01.jpg)
 ![MouseKeyShow Preview](FullKeyboard_02.jpg)
 ![MouseKeyShow Preview](FullKeyboard_03.jpg)
-![点击这里观看 MouseKeyShow 演示视频](https://www.youtube.com/watch?v=J3Itx-3jFuM)
+[点击这里观看 MouseKeyShow 演示视频](https://www.youtube.com/watch?v=J3Itx-3jFuM)
 | Real-time Visualizer Overlay | Configuration Panel |
 | :---: | :---: |
 | ![MouseKeyShow Preview](MouseKeyShow.jpg) | ![MouseKeyShow Settings](MouseKeyShowCfg.jpg) |
