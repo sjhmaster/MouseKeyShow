@@ -16,6 +16,8 @@
 ![Demo](v1.5.3.gif)
 ![Demo](Dodge.gif)
 ![Demo](fullkeyboard.gif)
+![MouseKeyShow Preview](capsules.jpg)
+![MouseKeyShow Preview](pinkcapsules.jpg)
 ![MouseKeyShow Preview](FullKeyboard_01.jpg)
 ![MouseKeyShow Preview](FullKeyboard_02.jpg)
 ![MouseKeyShow Preview](FullKeyboard_03.jpg)
