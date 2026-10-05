@@ -13,7 +13,9 @@
 
 ### 🖼️ Screenshots & Preview
 [MouseKeyShow demo video](https://www.youtube.com/watch?v=J3Itx-3jFuM)
+
 [Key Style demo video](https://youtu.be/LAu5UEu_gYk?si=KLjFLy8RfTSJX-xu)
+
 ![Demo](mousekeyshow.gif)
 ![Demo](v1.5.3.gif)
 ![Demo](Dodge.gif)
