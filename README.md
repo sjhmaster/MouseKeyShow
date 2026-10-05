@@ -12,6 +12,8 @@
 > **Note**: This repository provides official pre-built binary distributions. Source code is proprietary.
 
 ### 🖼️ Screenshots & Preview
+[MouseKeyShow demo video](https://www.youtube.com/watch?v=J3Itx-3jFuM)
+[Key Style demo video](https://youtu.be/LAu5UEu_gYk?si=KLjFLy8RfTSJX-xu)
 ![Demo](mousekeyshow.gif)
 ![Demo](v1.5.3.gif)
 ![Demo](Dodge.gif)
@@ -21,7 +23,6 @@
 ![MouseKeyShow Preview](FullKeyboard_01.jpg)
 ![MouseKeyShow Preview](FullKeyboard_02.jpg)
 ![MouseKeyShow Preview](FullKeyboard_03.jpg)
-[Click here to watch the MouseKeyShow demo video](https://www.youtube.com/watch?v=J3Itx-3jFuM)
 | Real-time Visualizer Overlay | Configuration Panel |
 | :---: | :---: |
 | ![MouseKeyShow Preview](MouseKeyShow.jpg) | ![MouseKeyShow Settings](MouseKeyShowCfg.jpg) |
