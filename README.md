@@ -17,6 +17,8 @@
 [Key Style demo video](https://youtu.be/LAu5UEu_gYk?si=KLjFLy8RfTSJX-xu)
 
 
+![Demo](MouseKeyShowImage2Color.gif)
+![Demo](MouseKeyShowVsKeyViz.gif)
 ![Demo](1080p.gif)
 ![Demo](mousekeyshow.gif)
 ![Demo](v1.5.3.gif)
