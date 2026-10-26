@@ -14,7 +14,9 @@
 ### 🖼️ Screenshots & Preview
 [MouseKeyShow demo video](https://www.youtube.com/watch?v=J3Itx-3jFuM)
 
-[Key Style demo video](https://youtu.be/LAu5UEu_gYk?si=KLjFLy8RfTSJX-xu)
+[Image2Color](https://www.youtube.com/watch?v=7cYraFcD-XQ)
+
+[keypress sound exffect](https://www.youtube.com/watch?v=uFXex7oKLSQ)
 
 
 ![Demo](MouseKeyShowImage2Color.gif)
