@@ -95,6 +95,7 @@
 * **官方站点**：[https://iclovers.com](https://iclovers.com)
 * **服务邮箱**：[support@iclovers.com](mailto:support@iclovers.com)
 * **官方交流 QQ 群**：971736789
+* ![QQ群](qrcode_1793591173805.jpg)
 * 点击链接加入群聊【iClovers】：https://qm.qq.com/q/b7iswigCAM
 
 ---
